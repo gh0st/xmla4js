@@ -13,7 +13,7 @@ Xmla4js can be used inside any webbrowser that supports javascript, or in a serv
 
 Features
 ========
-XMLa4js support synchronous as well as asynchronous requests, and offers access to the response through a javascrip API, DOMDocument, and raw XML. The objective is to offer maximum flexibility to XML/A web clients while making normal tasks easy, and hard things doable.
+XMLa4js support synchronous as well as asynchronous requests, and offers access to the response through a javascript API, DOMDocument, and raw XML. The objective is to offer maximum flexibility to XML/A web clients while making normal tasks easy, and hard things doable.
 
 Currently, Xmla4js does not offer any abstraction of the MDX queries. You need to be familiar with MDX and multidimensional data sets to build meaningful applications on top of XML/A. But you won't need to forge XML SOAP messages and handle server communication and javascript to XML marshalling/demarshalling - that's what Xmla4js is for.
 
